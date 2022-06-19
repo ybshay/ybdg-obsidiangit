@@ -1,0 +1,315 @@
+{
+  "main": {
+    "id": "5fcc82006d11ba9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "69dec673b233d74d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PKM/LYT Kit 6/Home.md",
+            "mode": "preview",
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "69dec673b233d74d",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM/LYT Kit 6/Home.md\",\"mode\":\"preview\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69dec673b233d74d",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d53db0d1a98c9013",
+    "type": "split",
+    "children": [
+      {
+        "id": "b842f59b14d8f72c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e7eaa14ad1ca663",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1673dab3ad65bca3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "25c2198ce502c63d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "7fb72feeb4bbc54f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 446
+  },
+  "right": {
+    "id": "726d5694adbd824c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bce6a4d45075bc75",
+        "type": "tabs",
+        "dimension": 49.68287526427061,
+        "children": [
+          {
+            "id": "ea2a695aa9e03ceb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PKM/LYT Kit 6/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "09d279e793876d12",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "89a447a6a6687b98",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "b284838d5ba5aabf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PKM/LYT Kit 6/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "af0ca6a527f63b5c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "0dc990924f19a888",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "69618fa3ff12715e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "6b559341ad059e54",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8e992d9931cd9719",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "98a030987b503553",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "ca2e2de4d470e32d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1afa70b8ee7e2e85",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "ddbd274958cda5bb",
+        "type": "tabs",
+        "dimension": 50.31712473572939,
+        "children": [
+          {
+            "id": "4969b7b1f526a0be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "69dec673b233d74d",
+  "lastOpenFiles": [
+    "PKM/LYT Kit 6/Home.md",
+    "Dororo/Dororo.md",
+    "Dororo/Episode reactions/Ep 1.md",
+    "PKM/DashboardPlusPlus-master/Dashboard++.md",
+    "PKM/DashboardPlusPlus-master/README.md",
+    "PKM/DashboardPlusPlus-master/Family/Recipes/Spicy-Sweet Buffalo Popcorn.md",
+    "PKM/DashboardPlusPlus-master/images/Spicy popcorn.jpeg",
+    "PKM/DashboardPlusPlus-master/images/Smores.jpeg",
+    "PKM/DashboardPlusPlus-master/images/Kitchen.jpeg",
+    "PKM/DashboardPlusPlus-master/images/home.jpg"
+  ]
+}

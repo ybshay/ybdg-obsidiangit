@@ -1,0 +1,16 @@
+{
+  "translucency": false,
+  "theme": "obsidian",
+  "cssTheme": "Red Graphite",
+  "enabledCssSnippets": [
+    "AllAlternateThemes",
+    "custom-admonitions.a461eb",
+    "file-explorer-no-line-wrap",
+    "hide-links-in-edit-mode",
+    "image-adjustments-by-SIRvb",
+    "sliding-panes-No-Gradient",
+    "supercharged-building-blocks",
+    "supercharged-people",
+    "dashboard"
+  ]
+}

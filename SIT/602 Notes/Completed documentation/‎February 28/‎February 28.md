@@ -1,0 +1,41 @@
+# February 28
+---
+- Reviewed in-studio signal flow
+- **Basic FX
+	- _Equalisation
+		- Adjusting volume of frequencies (e.g. bass)
+		- Frequency knob, gain knob, Q (Adjust the width of the bell) ![[602 February 28 - Drawing 1.excalidraw.png]]
+	- _Types of EQs
+		- Shelf EQ: High or low pass
+		- Parametric: Most common EQ, easiest to control due to number of bands, includes shelf EQs
+		- Graphic EQ: Comes with (roughly) 32 bands
+		- Will likely be used (mostly) to clean up recordings.
+	- _Reverb
+		- Dry and wet: Dry is the original signal, Wet is the effect. In professional audio production, it’s common to make a distinct channel for a dry signal and a wet signal.
+		- Emphasises the distance between the listener and the source of a sound.![[602 February 28 - Drawing 2.excalidraw.png]]
+	- *Delay
+		- Delay knob adjusts the time between delays.
+		- Feedback knob does a similar thing to adjusting dry and wet sounds in reverb.
+		- We’re likely to only use them for effect (i.e. it’s not gonna be something we use a lot).
+	- _Pitch shifting_
+	- _Flanger_
+		- This is a sort of combo between delay and reverb.
+---
+- **Diegetic & Non-diegetic**
+	- Diegetic sounds originate from within the narrative, non-diegetic sounds are not and are added to the work for dramatic effect.
+- **Dialogue**
+	- _ADR:_ Re-recording an actor’s dialogue in a studio for the sake of getting clean audio.
+- **Music**
+	- Music sets the emotional tone, immerses the viewer, and gives further meaning to elements of the story (such as building and release of tension, alongside characters’ actions and roles in the story).
+- **Foley
+	- Reproduction of everyday sounds resulting from the characters’ movements and, less often, their environment.
+- **Sound effects**
+	- Non-human sounds added for impact e.g. gun sounds, punch sounds, insect sounds.
+- **Atmosphere/atmos**
+	- Background sounds of a location e.g. nature in a forest scene, wind and water, crowds and traffic.
+- **Room tone**
+	- The sound of an empty room.
+	- Emphasising noticeable sounds for impact e.g. aircon.
+	- Important aspect of recording that most people overlook.
+- **Spotting
+	- Watching media and noting down any sounds you need and when.

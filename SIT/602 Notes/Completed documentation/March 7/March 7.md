@@ -1,0 +1,58 @@
+#  Monday 7 March
+---
+- Audio analysis: Whiplash short film
+	- Personal notes
+		- Original short
+			- Footstep sounds are only used at the beginning; and the clap sounds are a little quieter than at the beginning as the scene progresses.
+			- The anxious breathing is louder than the dialogue.
+		- Second version
+			- No loud clapping at the beginning.
+			- The drumsticks hitting at the same time that the instructor claps is new.
+			- The yelling from the instructor has less volume overall.
+			- ProTools
+	- Dashboard: Session properties dialog box
+		- Always select ‘prompt for location’
+	- Edit window: Timecode, tracklist, miniature tracklist, sound files
+		- Tools 
+			- Zoomer tool (F5)
+			- Trim tool (F6)
+			- Selector tool (F7)
+			- Grabber tool (F8)
+			  Scrubber tool (F9)
+			- Pencil tool (F10)
+				- Used mainly for midi
+			- Smart tool (combo of selector, trimmer & grabber tools). Adjusts depending on mouse location
+				- Top of clip: selector
+				- Bottom of clip: grabber
+				- Edge of clip: trimmer
+				- Top corners: fade-ins
+				- Bottom of adjoining clips: crossfade
+			- Alt+shift+3: Creates blank audio clip within selection
+		- Edit modes 
+			- Shuffle mode: Clip movement constrained by other clips
+				- Good for looping tracks
+			- Slip mode: Clips are moved and edited freely without affecting other clips
+			- Spot mode: Uses a dialog box to determine placement of clips by exact points of the timeline’s duration
+				- Good for syncing audio to video
+				- Saves original timestamp of clip
+			- Grid mode: 
+				- Good for keeping sounds synced to a tempo/rhythm
+				- Relative grid mode: sounds can be moved to any point in timeline; but they keep their relation to the grid when returning to grid mode. This feature is good for making certain sounds just off-beat
+			- Tracks
+				- Creating new tracks
+					- Ctrl (or command) - shift - n
+					- Track creaton dialog box allows the selection of amount, format & type
+				- Deleted tracks cannot be recovered, but deleting a file does not equal deleting the audio used within it (it’s saved in the clips bin)
+	- Mix window: Plugins management, mix management
+		- UI
+			- Inserts: plugin management section
+				- Can have up to 10 different inserts
+			- Sends: can route audio to other channels
+				- Two types of sends: outputs (physical outputs), busses (internal routing paths)
+				- We need a track to return it to (AUX
+					- Used to plugin effects to multiple tracks. This is important for convenience, but also processing power
+			- Input/Output: self-explanatory
+			- Input listen, solo, arm and mute
+		- Ctrl-shift-i brings up the ‘import audio’ dialog box
+- Spotting quick notes
+	- Alt-shift-control-i in ProTools for importing audio/visual reference file

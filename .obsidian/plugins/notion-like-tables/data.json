@@ -1,0 +1,57 @@
+{
+  "appData": {},
+  "state": {
+    "Home/2 - Areas/Lifestyle planning/Food/Meal Records/May 30 - Apr 4.md": {
+      "table-id-b9cq1b": {
+        "data": {
+          "headers": [
+            {
+              "id": "column-id-ooy5b4",
+              "content": "Monday",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-3qrznz",
+              "content": "Tuesday",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-1dvb5u",
+              "content": "Wednesday",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-agbmnv",
+              "content": "Thursday",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            },
+            {
+              "id": "column-id-dzjgh7",
+              "content": "Friday",
+              "sortName": "default",
+              "width": "100px",
+              "type": "text"
+            }
+          ],
+          "rows": [],
+          "cells": [],
+          "tags": []
+        },
+        "viewType": "reading",
+        "shouldUpdate": false
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  }
+}

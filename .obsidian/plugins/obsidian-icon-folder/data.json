@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiAlarmLine",
+      "FarCalendarDays",
+      "RiImage2Line",
+      "FasMagnifyingGlass",
+      "FasSchool",
+      "CuSit",
+      "RiHomeLine",
+      "FabAdversal",
+      "FabAmazon",
+      "RiNotification4Line",
+      "RiAlarmWarningFill",
+      "FasPaperclip",
+      "RiBookOpenLine",
+      "RiBookmarkFill",
+      "FasDollarSign"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "Home.md": "RiHomeLine",
+  "ReadItLater Inbox": "FasPaperclip",
+  "Day Planners": "FarCalendarDays",
+  "PKM/PARA/1 - Projects": "RiAlarmLine",
+  "PKM/PARA/1 - Projects/Narrative database": "RiBookOpenLine",
+  "SIT": "FasSchool"
+}

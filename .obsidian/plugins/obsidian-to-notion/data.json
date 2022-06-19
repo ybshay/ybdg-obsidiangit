@@ -1,0 +1,12 @@
+{
+  "notionAPI": "secret_526Hwbv3sIhTcMIfpP9rMIx9Oiswq6MRvDggQGjYPTh",
+  "databaseID": "d0fd75c15e6849a0b5202d1285c1cdbc",
+  "bannerUrl": "",
+  "proxy": "",
+  "langConfig": {
+    "notion-logo": "Share to notion",
+    "sync-success": "Sync to notion success: \n",
+    "sync-fail": "Sync to notion fail: \n",
+    "open-notion": "Please open the file that needs to be synchronized"
+  }
+}

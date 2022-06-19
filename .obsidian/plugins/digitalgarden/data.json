@@ -1,0 +1,14 @@
+{
+  "githubRepo": "yb-digitalgarden",
+  "githubToken": "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",
+  "githubUserName": "ybshay",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "{\"name\":\"Atom\",\"author\":\"kognise\",\"repo\":\"kognise/obsidian-atom\",\"screenshot\":\"screenshot-hybrid.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/kognise/obsidian-atom/master/obsidian.css\"}",
+  "baseTheme": "dark",
+  "faviconPath": "",
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false
+  }
+}

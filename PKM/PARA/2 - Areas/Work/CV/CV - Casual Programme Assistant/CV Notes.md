@@ -1,0 +1,16 @@
+- Template sections
+	- Contact info
+		- E-mail: crhendersonb@outlook.com
+		- Home phone: 216 0237
+		- Mobile phone: 021 107 8246
+		- Kingswell, Invercargill 9812
+	- Purpose for application
+		- Looking for casual part-time work to supplement funds to purchase equipment needed for study.
+	- Education
+		- Part-time student (2nd year of Bachelor of Screen Arts) at the Southern Institute of Technology.
+		- Qualified at NZQA Level 3 (and all prerequisites for current level of study).
+	-  Skills
+		- Patient with children as I have grown up helping to regularly supervise younger children in my large family.
+		- I have done infrequent babysitting individually for several nephews, nieces, and children of family friends (see referees).
+		- I'm a fast learner and can adapt to accommodating individual children's needs quickly.
+		- I enjoy being around and helping to take care of children and have, to varying degrees, been involved in childcare (within the context of helping family and friends) for most of my life.
