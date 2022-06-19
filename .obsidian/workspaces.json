@@ -6,7 +6,7 @@
         "type": "split",
         "children": [
           {
-            "id": "69dec673b233d74d",
+            "id": "69ce431ae236365f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,13 +20,13 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "69dec673b233d74d",
+                  "leaf": "69ce431ae236365f",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM/LYT Kit 6/Home.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "69dec673b233d74d",
+                  "leaf": "69ce431ae236365f",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -301,7 +301,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "active": "69dec673b233d74d"
+      "active": "69ce431ae236365f"
     }
   },
   "active": "1"
