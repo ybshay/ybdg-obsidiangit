@@ -1,0 +1,5 @@
+- Fixed-term part time job (less than 150 per week)
+	- Adult minimum wage: $21.20/hour
+		- 7-hour work week maximum (without getting benefit payment docked)
+		- 21.20 x 7 = $148.40 per week
+			- Would make my weekly disposable income $290.86, thus reducing my wait time to 6 weeks (almost half its total)

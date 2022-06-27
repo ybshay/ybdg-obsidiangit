@@ -7,5 +7,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./attachments",
   "defaultViewMode": "preview",
-  "spellcheck": true
+  "spellcheck": true,
+  "showUnsupportedFiles": true
 }

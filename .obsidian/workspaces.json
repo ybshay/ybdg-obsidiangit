@@ -6,7 +6,7 @@
         "type": "split",
         "children": [
           {
-            "id": "69ce431ae236365f",
+            "id": "48c7d3f5aab7cfde",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,13 +20,13 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "69ce431ae236365f",
+                  "leaf": "48c7d3f5aab7cfde",
                   "group": null,
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM/LYT Kit 6/Home.md\",\"mode\":\"preview\",\"source\":false}}",
                   "eState": "{}"
                 },
                 {
-                  "leaf": "69ce431ae236365f",
+                  "leaf": "48c7d3f5aab7cfde",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -192,30 +192,6 @@
                 }
               },
               {
-                "id": "0dc990924f19a888",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
-                "id": "69618fa3ff12715e",
-                "type": "leaf",
-                "state": {
-                  "type": "FANTASY_CALENDAR",
-                  "state": {}
-                },
-                "pane-relief:history-v1": {
-                  "pos": 0,
-                  "stack": []
-                }
-              },
-              {
                 "id": "6b559341ad059e54",
                 "type": "leaf",
                 "state": {
@@ -264,10 +240,10 @@
                 }
               },
               {
-                "id": "1afa70b8ee7e2e85",
+                "id": "d03e8a6577397627",
                 "type": "leaf",
                 "state": {
-                  "type": "online.larslockefeer.obsidian-plugin-todo",
+                  "type": "FANTASY_CALENDAR",
                   "state": {}
                 },
                 "pane-relief:history-v1": {
@@ -276,7 +252,7 @@
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 9
           },
           {
             "id": "ddbd274958cda5bb",
@@ -301,7 +277,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "active": "69ce431ae236365f"
+      "active": "48c7d3f5aab7cfde"
     }
   },
   "active": "1"
