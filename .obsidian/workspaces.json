@@ -6,27 +6,17 @@
         "type": "split",
         "children": [
           {
-            "id": "48c7d3f5aab7cfde",
+            "id": "3242b69548bb5911",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM/LYT Kit 6/Home.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "48c7d3f5aab7cfde",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"PKM/LYT Kit 6/Home.md\",\"mode\":\"preview\",\"source\":false}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "48c7d3f5aab7cfde",
+                  "leaf": "3242b69548bb5911",
                   "group": null,
                   "state": "{\"type\":\"empty\",\"state\":{}}",
                   "eState": "{}"
@@ -121,7 +111,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "PKM/LYT Kit 6/Home.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -166,7 +155,6 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "PKM/LYT Kit 6/Home.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -277,7 +265,7 @@
         "direction": "horizontal",
         "width": 300
       },
-      "active": "48c7d3f5aab7cfde"
+      "active": "3242b69548bb5911"
     }
   },
   "active": "1"
